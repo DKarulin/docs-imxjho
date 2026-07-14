@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rneoji.privatetalks.online/sitemap.xml
